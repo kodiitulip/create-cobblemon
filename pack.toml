@@ -1,4 +1,4 @@
-name = "Create Pixelmon"
+name = "Create Cobblemon"
 author = "kodiitulip"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "105c48a59aab568a557bd4952dec65046b7050692399b7e7d67dad40db142d2f"
+hash = "ddde0a792856c22cfd83c79b414f373db25a2fd302896f8773aa2f8b6178774d"
 
 [versions]
 minecraft = "1.21.1"

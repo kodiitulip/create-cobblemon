@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "c050b20c1bd26fea7f2d1f19007dfc678d894331243d8b3e91586cf9e0a3e42c"
+
+[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "a14774125b0d59e7f71ae561a7881d41d068a496ea996a49c052c75d4659899e"
 metafile = true
@@ -38,6 +42,11 @@ metafile = true
 [[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "4f20967ee66eb96cbcfaa63bea9d3424ac45b7db414c9a491f31c86012f34fb5"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "5ea9fb9ea7bf0fed99866d9dc20ffc907c6f6cf203dddeca9dda01ee475cfc37"
 metafile = true
 
 [[files]]
@@ -271,6 +280,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "e57e1b1c60341da3edd2b8e9545469102957c4f835e24ff02b83df6ec2a32ecd"
 metafile = true
@@ -483,6 +497,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "9d4e4bd1007b5529b2b35439d00d74f0554f2bd8ae0d4d72aeab9d8063c60beb"
+metafile = true
+
+[[files]]
+file = "mods/options-profiles.pw.toml"
+hash = "4ab7a8e143610eb366856b49f2866017df8ab07c2f92f4a837aabd885fdc0737"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Options Profiles"
+filename = "optionsprofiles-1.21.1-neoforge-v1.4.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DnyS3EEW/versions/x6mxk2Lf/optionsprofiles-1.21.1-neoforge-v1.4.2.jar"
+hash-format = "sha512"
+hash = "6cedcc81e8fa3023a52c4c2320d0cfb59fb46d5b4896779b77be446c6a8e16fd2f2aa847e97a0166e6617f34cb1f7914fceb27b4419bddf444f785f6df2f013f"
+
+[update]
+[update.modrinth]
+mod-id = "DnyS3EEW"
+version = "x6mxk2Lf"
