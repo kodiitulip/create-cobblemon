@@ -1,0 +1,13 @@
+name = "Create: Buildstone Toolkit"
+filename = "createbuildstonetoolkit-neoforge-1.21.1-0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3nYrylXP/versions/Ou9zLtpp/createbuildstonetoolkit-neoforge-1.21.1-0.2.jar"
+hash-format = "sha512"
+hash = "7183a06cba2c536da18f910a006174370c14f2ca8308536c1fe2edc8a0d948d2c000a244f88eed6548bd2ab540756167e3396af4217c9a0a8060855d36d6bfae"
+
+[update]
+[update.modrinth]
+mod-id = "3nYrylXP"
+version = "Ou9zLtpp"

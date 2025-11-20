@@ -1,0 +1,13 @@
+name = "Create: Quartz to Experience"
+filename = "create_quartz_to_experience-v0.1.4-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QKCv6og6/versions/BGHVViPX/create_quartz_to_experience-v0.1.4-1.21.1.jar"
+hash-format = "sha512"
+hash = "bf932a01f8f0ead9adbdf321ce7cdc7e4ac63e1b1774fce858d0ff9f027507f5017f92f2b2a86a88fc14418f543793e9032e5157b0761e95315e2a351f21bc51"
+
+[update]
+[update.modrinth]
+mod-id = "QKCv6og6"
+version = "BGHVViPX"

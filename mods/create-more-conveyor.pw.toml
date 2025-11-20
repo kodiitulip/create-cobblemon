@@ -1,0 +1,13 @@
+name = "Create More Conveyor"
+filename = "createmoreconveyor-neoforge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dq6rdbXb/versions/TcEnQBdz/createmoreconveyor-neoforge-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "19cae831b2e03627884ef7e20c2b265e00f3a1241ab6c32a9b05b56d6e63f49b9fa36555b18e28e6dc4dd136f5e6b7e86f73292780dc85532b74f5211e9e8759"
+
+[update]
+[update.modrinth]
+mod-id = "dq6rdbXb"
+version = "TcEnQBdz"

@@ -1,0 +1,13 @@
+name = "Camphor"
+filename = "Camphor-1.2.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FQnW4sZH/versions/UI35JcxP/Camphor-1.2.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "e84daa25164724cfb8ab1980d538a13b9906d95e456f61d9f1ba00fe1b9ddf4fd98ec07f60b4f05ac3269d9dffc84a3a5acad70be57228f0a2478c36d12d38e1"
+
+[update]
+[update.modrinth]
+mod-id = "FQnW4sZH"
+version = "UI35JcxP"

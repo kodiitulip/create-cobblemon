@@ -1,0 +1,13 @@
+name = "Omnilook"
+filename = "omnilook-0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PebRjBL7/versions/S9xoGIaJ/omnilook-0.1.jar"
+hash-format = "sha512"
+hash = "2912c66360a884c0220375d51ea3748854e284d1574a421a712de0b77d91718ca6ba26276fb82ed6c5a5f47becdda28aaca23eae129e2f86e01d837a86ae545d"
+
+[update]
+[update.modrinth]
+mod-id = "PebRjBL7"
+version = "S9xoGIaJ"

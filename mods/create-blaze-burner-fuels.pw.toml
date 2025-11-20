@@ -1,0 +1,13 @@
+name = "Create: Blaze Burner Fuels"
+filename = "create_blaze_burner_fuels-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f3wjDYg6/versions/NOoL6Cpg/create_blaze_burner_fuels-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "9cbb7f93683bda43d72cea1ad6a3a593142fe770823a22c88f4d64a18e6d16a1a96dcd2cd694460deaa7b09451e13dd42078a9eb82fcb3e275401b7dfc0b6da4"
+
+[update]
+[update.modrinth]
+mod-id = "f3wjDYg6"
+version = "NOoL6Cpg"

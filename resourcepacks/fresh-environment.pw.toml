@@ -1,0 +1,16 @@
+name = "Fresh Environment"
+filename = "§3Fresh §bEnvironment.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Aq4BlX86/versions/EN5BZiVl/%C2%A73Fresh%20%C2%A7bEnvironment.zip"
+hash-format = "sha512"
+hash = "740f88436612a74a7689c020355ef8d99c320d8052d612f015ff759e678d2edad4b9c1ef037d82eb4e59391a48c9ed09932b54441bd522328646620e2c4ae54e"
+
+[update]
+[update.modrinth]
+mod-id = "Aq4BlX86"
+version = "EN5BZiVl"
+
+[option]
+optional = true

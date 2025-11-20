@@ -1,0 +1,13 @@
+name = "Naturally Trimmed"
+filename = "naturally_trimmed-3.1.1+1.21-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hHVaPgFK/versions/pfsDCdAY/naturally_trimmed-3.1.1%2B1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "89a3b93e74f1632d972f735ffc33d5bd6f2670a7c2926d8d32d6a449ba32ad27d2dca34a6368b212e0a24f7e11d3dd7a42e57a5fe381308c1ba86d9a7d3ac7e7"
+
+[update]
+[update.modrinth]
+mod-id = "hHVaPgFK"
+version = "pfsDCdAY"

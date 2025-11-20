@@ -1,0 +1,13 @@
+name = "Simple Smithing Templates Duplication (SSTD)"
+filename = "simple-smithing-templates-duplication-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZvszGisL/versions/Sykkxv5w/simple-smithing-templates-duplication-1.1.jar"
+hash-format = "sha512"
+hash = "fa40559d3e1ec848d15bcaeabd9570c8c192ab6ee8afe2fb917a5fa16ef9908483ec45a4abed0ec3ffad9c2e2131df4116019fd062eb5a3726df8c1c89e12ea5"
+
+[update]
+[update.modrinth]
+mod-id = "ZvszGisL"
+version = "Sykkxv5w"

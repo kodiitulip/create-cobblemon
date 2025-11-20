@@ -1,0 +1,16 @@
+name = "Fresh AI Tweaks"
+filename = "Fresh AI Tweaks 1.21.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SJ639K71/versions/seE1C3lt/Fresh%20AI%20Tweaks%201.21.1.zip"
+hash-format = "sha512"
+hash = "fb9f4eaec46d0c67a7e0048b377570336fb8fc8bbffd8ed0e059b9a6decda8bc721586ee8b735aa3ee9ec4c0093a463d60c2282237be350de4d030ea9ecd1ece"
+
+[update]
+[update.modrinth]
+mod-id = "SJ639K71"
+version = "seE1C3lt"
+
+[option]
+optional = true

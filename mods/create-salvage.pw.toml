@@ -1,0 +1,13 @@
+name = "Create: Salvage"
+filename = "create_salvage-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3amPkQUO/versions/1Wh9NhVa/create_salvage-1.1.0.jar"
+hash-format = "sha512"
+hash = "e4b60e57ca6bf9b182a3910cafd23e30c574993b0c59084d9201bfd177b2b448611fd3e7237c859108d77a6314c8a0ef519ef79c9d6283c0d6d0f62b84080cad"
+
+[update]
+[update.modrinth]
+mod-id = "3amPkQUO"
+version = "1Wh9NhVa"
