@@ -1,15 +1,16 @@
 name = "Create Cobblemon"
 author = "kodiitulip"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ddde0a792856c22cfd83c79b414f373db25a2fd302896f8773aa2f8b6178774d"
+hash = "44da6b17ee43344ff9ed665b2eed5674abd69d264ec2b088bf674ff01eb2a549"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.215"
 
 [options]
+datapack-folder = "datapacks"

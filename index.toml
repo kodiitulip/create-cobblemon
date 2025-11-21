@@ -5,6 +5,26 @@ file = ".github/workflows/release.yml"
 hash = "c050b20c1bd26fea7f2d1f19007dfc678d894331243d8b3e91586cf9e0a3e42c"
 
 [[files]]
+file = "config/defaultoptions/extra/config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaerominimap.txt"
+hash = "bb3ad3c129553a5bcb29152111a46b83c70b221d699afc25c51fe7cd52f81ba2"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaerominimap_entities.json"
+hash = "7dcf1f95790de011026175146068f37e9d26cd5b3832fe866895592e08239b65"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaeroworldmap-common.txt"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaeroworldmap.txt"
+hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
+
+[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "a14774125b0d59e7f71ae561a7881d41d068a496ea996a49c052c75d4659899e"
 metafile = true
@@ -280,11 +300,6 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/default-options.pw.toml"
-hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "e57e1b1c60341da3edd2b8e9545469102957c4f835e24ff02b83df6ec2a32ecd"
 metafile = true
@@ -307,11 +322,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
-metafile = true
-
-[[files]]
-file = "mods/enchancement.pw.toml"
-hash = "266e18277d80a22d952feb002febbf3bf2c8c4fcaa8eb78967e7b9411585dbc0"
 metafile = true
 
 [[files]]
@@ -470,6 +480,16 @@ hash = "16c43192bf74a383c2024a0537834017415647b91e225f62077bcd73b1dfdc7d"
 metafile = true
 
 [[files]]
+file = "mods/no-resource-pack-warnings-forge.pw.toml"
+hash = "3fb3a7b2f288770f8df411109733184353d2e3fc6c28c28e0824feb3e26ee140"
+metafile = true
+
+[[files]]
+file = "mods/nodurability.pw.toml"
+hash = "9ced4ec0c01f25aa65cad480d4808e7d4604b5d8fde6a8bfb9321e04c38508ae"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "99813592c09351cb6340d8519d919e0d2d0b2f8073c3fe6833e7d846616bf5f2"
 metafile = true
@@ -585,6 +605,11 @@ hash = "a2028f1fdc803760a29877b07b2958cecdc6402eb946f9d5a0fff9fe72b8671d"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "8ed3c58f23d9255343a590b90e1216ac58142b920c9bffdd14c7fdc32e3ee002"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "f7775235d68608f6d98a784579b62030269b74e9ebfc67875f20d8c5a8dd1c77"
 metafile = true
@@ -653,6 +678,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "64eaf7478e42d5143f4feeee87c56f779f4c3523f9fb06d8342484d36aa4442b"
 metafile = true
+
+[[files]]
+file = "pack.toml.bak"
+hash = "5040dce1ee4a2d7c62565286acbf1f913ee24212e2ba3a587aebef2c6cfea3b2"
 
 [[files]]
 file = "resourcepacks/create-lootr.pw.toml"
