@@ -25,6 +25,10 @@ file = "config/defaultoptions/extra/config/xaeroworldmap.txt"
 hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
+file = "icon.png"
+hash = "8d4d6cb29533676487f8130ec8df6615ee90bdb6b5121037562a93c8d487e284"
+
+[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "a14774125b0d59e7f71ae561a7881d41d068a496ea996a49c052c75d4659899e"
 metafile = true
@@ -530,6 +534,11 @@ hash = "e24153d95900314c5d9735c1c8dd278839db4215fa956f1351d5e97f2dafeced"
 metafile = true
 
 [[files]]
+file = "mods/packwiz-installer-bootstrap.pw.toml"
+hash = "66fd4a47f4eb3fc7b0e487b0fafc998f009e889188bcc5a609d04c2ab97e369f"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "3c5a82ae379785faaf80a8c641e7e7008d2d1d56d3cd16b9c4e2b5d44aab12de"
 metafile = true
@@ -680,8 +689,32 @@ hash = "64eaf7478e42d5143f4feeee87c56f779f4c3523f9fb06d8342484d36aa4442b"
 metafile = true
 
 [[files]]
-file = "pack.toml.bak"
-hash = "5040dce1ee4a2d7c62565286acbf1f913ee24212e2ba3a587aebef2c6cfea3b2"
+file = "options-profiles/Higher End/configuration.json"
+hash = "92b8367715ae29f847b4d7a752dfda98b48e6f4d352cc06c05983c262453b7f0"
+
+[[files]]
+file = "options-profiles/Higher End/options.txt"
+hash = "4faedca9bfedeac8c4a6bcf8e4e08bb2b95861156b80adf6b29d065fb03eb3f0"
+
+[[files]]
+file = "options-profiles/Higher End/sodium-options.json"
+hash = "8c7479dea8048f9748f5e2e8ec4b87c875896423b55401075c00ec0f1f728064"
+
+[[files]]
+file = "options-profiles/Low End/configuration.json"
+hash = "c1005a09970ed083a051c014f63e83fce855953174b1b08816f7cc9ee17a1f33"
+
+[[files]]
+file = "options-profiles/Low End/options.txt"
+hash = "cb5ecb431bc90aea31328937501ba67ff9916ff022db817b1a6138923b24ce98"
+
+[[files]]
+file = "options-profiles/Low End/sodium-options.json"
+hash = "897a88f37f173cf0b5a6a713123027983eb58fdc5781dfea45a0700186a19c1c"
+
+[[files]]
+file = "options-profiles/configuration.json"
+hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "resourcepacks/create-lootr.pw.toml"
